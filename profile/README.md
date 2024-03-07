@@ -24,15 +24,40 @@
 ## 계획서
 
 ### 화면설계서
+![image](https://github.com/keepgoingLikelion/.github/assets/102032954/18499a69-63df-40fd-99d6-7c915cd21d11)
+![image](https://github.com/keepgoingLikelion/.github/assets/102032954/6b2c9fae-d04c-456f-b0a4-b82fec792fd9)
+![image](https://github.com/keepgoingLikelion/.github/assets/102032954/1050debc-44e7-44be-a8f2-3d936ac0dfa6)
+![image](https://github.com/keepgoingLikelion/.github/assets/102032954/9a973f9d-4334-499f-903b-89e2915e066e)
 
 ### ERD
+![image](https://github.com/keepgoingLikelion/.github/assets/102032954/f1e97e53-b49b-4e7c-a8e8-ab9c82bfae4a)
 
 ### API
+[API 링크](https://app.swaggerhub.com/apis/GLUE0440/meringue_project/1.0.0)
 
 ## 기술
 
 ### Forder Structure
+```
+frontend
+- 작성 중...
+```
+```
+backend
+ㄴsrc/main/java/com/keepgoingLikeline/emotionDiary_backend
+	ㄴconfig
+	ㄴcontroller
+	ㄴdto
+	ㄴentity
+	ㄴrepository
+	ㄴservice
+	ㄴutil
+```
 
 ### Tech Stack
 
 ### How to Start
+- frontend
+  `npm run dev`
+- backend
+  `./gradlew.bat bootrun`
