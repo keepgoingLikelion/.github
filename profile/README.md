@@ -19,13 +19,12 @@
 
 > 강원대학교 11기 멋쟁이사자처럼 동아리에서 시작된 진행시켜! 팀이 제작하였습니다.
 > <br/> 뭐든지 일단 시도해보면 이룰 수 있다는 믿음을 팀명에 담았습니다☺️
-- FE
-  + [Jihwan-Hong](https://github.com/flareseek)
-  + [possiblly](https://github.com/possiblly)
-  + [YeJi Lee](https://github.com/yeahzee0421)
-- BE    
-  + [dandamdandam](https://github.com/dandamdandam)
-  + [GamJaDo](https://github.com/GamJaDo)
+
+| Backend | Backend | Frontend | Frontend | Frontend |
+|---------|---------|---------|---------|----------|
+| ![김병수](https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/%EA%B0%90%EC%9E%90%EC%97%90+%EC%8B%B9%EC%9D%B4%EB%82%98%EC%84%9C.png) | ![t](이미지-링크) | ![t](이미지-링크) | ![t](이미지-링크) | ![t](이미지-링크) |
+|  김병수  |  정다연  |  홍지환  |  이예지  |  최수민  |
+
 
 ## 계획서
 
