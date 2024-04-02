@@ -31,7 +31,6 @@
     		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
       		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
 		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
-
   		<!-- Backend Members Imege -->
     		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
       		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="100px"></td>
@@ -42,7 +41,6 @@
       		<td>홍지환</td>
       		<td>이예지</td>
 	      	<td>최수민</td>
-
  		<!-- Backend Members Name -->
       		<td>정다연</td>
       		<td>김병수</td>
@@ -53,7 +51,6 @@
       		<td>역할</td>
       		<td>역할</td>
 	      	<td>역할</td>
-
  		<!-- Backend Members Role -->
       		<td>역할</td>
       		<td>jwt_oauth로그인, emoji스티커 기능 구현</td>
