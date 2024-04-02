@@ -28,16 +28,16 @@
     <tr>
         <!-- Frontend Members Image -->
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <!-- Backend Members Image -->
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="100px"></td>
+		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="200px"></td>
     </tr>
     <tr>
         <!-- Frontend Members Name -->
