@@ -67,6 +67,9 @@
 
 ## 계획서
 
+### Architecture
+![image](https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/serviceArchitecture.png)
+
 ### 화면설계서
 <!-- ![image](https://github.com/keepgoingLikelion/.github/assets/102032954/18499a69-63df-40fd-99d6-7c915cd21d11) 
 [image](https://github.com/keepgoingLikelion/.github/assets/102032954/6b2c9fae-d04c-456f-b0a4-b82fec792fd9)
