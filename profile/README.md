@@ -50,7 +50,7 @@
         <td>역할</td>
         <!-- Backend Members Role -->
         <td>역할</td>
-        <td>jwt_oauth로그인, emoji스티커 기능 구현</td>
+        <td>jwt_oauth로그인<br>emoji스티커 기능 구현</td>
     </tr>
 </table>
 
