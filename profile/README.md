@@ -20,11 +20,11 @@
 > 강원대학교 11기 멋쟁이사자처럼 동아리에서 시작된 진행시켜! 팀이 제작하였습니다.
 > <br/> 뭐든지 일단 시도해보면 이룰 수 있다는 믿음을 팀명에 담았습니다☺️
 
-| Backend | Backend | Frontend | Frontend | Frontend |
+| Backend | Frontend |
 |---------|---------|---------|---------|----------|
 | 김병수 | 정다연 | 홍지환 | 이예지 | 최수민 |
 |---------|---------|---------|---------|----------|
-| <img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/%EA%B0%90%EC%9E%90%EC%97%90+%EC%8B%B9%EC%9D%B4%EB%82%98%EC%84%9C.png" width="100px" /><br> |
+| <img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/%EA%B0%90%EC%9E%90%EC%97%90+%EC%8B%B9%EC%9D%B4%EB%82%98%EC%84%9C.png" width="200px" /><br> |
 |  jwt_oauth로그인, emoji스티커 기능 구현<br>  |  정다연  |  홍지환  |  이예지  |  최수민  |
 
 
