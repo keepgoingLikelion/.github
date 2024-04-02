@@ -68,7 +68,7 @@
 ## 계획서
 
 ### Architecture
-![image](https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/serviceArchitecture.png)
+![image](https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/meolaeng_Architecture.png)
 
 ### 화면설계서
 <!-- ![image](https://github.com/keepgoingLikelion/.github/assets/102032954/18499a69-63df-40fd-99d6-7c915cd21d11) 
