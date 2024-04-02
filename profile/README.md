@@ -26,12 +26,12 @@
         <th colspan="2">Backend</th>
     </tr>
     <tr>
-        <!-- Frontend Members Imege -->
+        <!-- Frontend Members Image -->
         <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
         <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
         <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
 
-        <!-- Backend Members Imege -->
+        <!-- Backend Members Image -->
         <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
         <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="100px"></td>
     </tr>
@@ -56,6 +56,7 @@
         <td>jwt_oauth로그인, emoji스티커 기능 구현</td>
     </tr>
 </table>
+
 
 
 
