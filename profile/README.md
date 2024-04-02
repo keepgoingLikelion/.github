@@ -22,8 +22,8 @@
 
 <table>
     <tr>
-        <th colspan="3">Frontend</th>
-        <th colspan="2">Backend</th>
+        <th colspan="3" style="text-align: center;>Frontend</th>
+        <th colspan="2" style="text-align: center;>Backend</th>
     </tr>
     <tr>
         <!-- Frontend Members Image -->
