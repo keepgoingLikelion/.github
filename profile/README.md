@@ -42,7 +42,7 @@
     <tr>
         <!-- Frontend Members Name -->
         <td style="text-align: center; vertical-align: middle;">홍지환</td>
-        <td style="text-align: center; vertical-align: middle;">>이예지</td>
+        <td style="text-align: center; vertical-align: middle;">이예지</td>
         <td style="text-align: center; vertical-align: middle;">최수민</td>
         <!-- Backend Members Name -->
         <td style="text-align: center; vertical-align: middle;">정다연</td>
