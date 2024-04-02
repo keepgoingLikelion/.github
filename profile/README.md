@@ -105,7 +105,9 @@ backend
 ```
 
 ### Tech Stack
-
+<h3>백엔드</h3>
+![image](https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/backendStack.png)
+<h3>프론트엔드</h3>
 ### How to Start
 - frontend
   `npm run dev`
