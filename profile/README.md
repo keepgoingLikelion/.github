@@ -27,12 +27,12 @@
  	</tr>
 	<tr>
 		<!-- Frontend Members -->
-	    		<td>홍지환</td>
-	    		<td>이예지</td>
-	    		<td>최수민</td>
+	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px">홍지환<br><br>역할</td>
+	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px">이예지<br><br>역할</td>
+	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px">최수민<br><br>역할</td>
 		
 		<!-- Backend Members -->
-	    	<td>정다연</td>
+	    	<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"><br><br>역할</td>
       		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="100px"><br>김병수<br>jwt_oauth로그인, emoji스티커 기능 구현</td>
   </tr>
 </table>
