@@ -55,7 +55,7 @@
         <td style="text-align: center; vertical-align: middle;">역할</td>
         <!-- Backend Members Role -->
         <td style="text-align: center; vertical-align: middle;">역할</td>
-        <td style="text-align: center; vertical-align: middle;">jwt_oauth로그인<br>emoji스티커 기능 구현</td>
+        <td style="text-align: center; vertical-align: middle;">jwt_oauth로그인,<br>emoji스티커 기능 구현</td>
     </tr>
 </table>
 
