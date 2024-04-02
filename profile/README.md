@@ -21,20 +21,40 @@
 > <br/> 뭐든지 일단 시도해보면 이룰 수 있다는 믿음을 팀명에 담았습니다☺️
 
 <table>
-	<tr>Frontend
-    		<th colspan="3">Frontend</th>
-    		<th colspan="2">Backend</th>
- 	</tr>
-	<tr>
-		<!-- Frontend Members -->
-	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"><br>홍지환<br>역할</td>
-	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"><br>이예지<br>역할</td>
-	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"><br>최수민<br>역할</td>
-		
-		<!-- Backend Members -->
-	    		<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"><br>정다연<br>역할</td>
-      			<td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="100px"><br>김병수<br>jwt_oauth로그인, emoji스티커 기능 구현</td>
-  </tr>
+    <tr>
+        <th colspan="3">Frontend</th>
+        <th colspan="2">Backend</th>
+    </tr>
+    <tr>
+        <!-- Frontend Members Imege -->
+        <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+        <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+        <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+
+        <!-- Backend Members Imege -->
+        <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="100px"></td>
+        <td><img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="100px"></td>
+    </tr>
+    <tr>
+        <!-- Frontend Members Name -->
+        <td>홍지환</td>
+        <td>이예지</td>
+        <td>최수민</td>
+        
+        <!-- Backend Members Name -->
+        <td>정다연</td>
+        <td>김병수</td>
+    </tr>
+    <tr>
+        <!-- Frontend Members Role -->
+        <td>역할</td>
+        <td>역할</td>
+        <td>역할</td>
+        
+        <!-- Backend Members Role -->
+        <td>역할</td>
+        <td>jwt_oauth로그인, emoji스티커 기능 구현</td>
+    </tr>
 </table>
 
 
