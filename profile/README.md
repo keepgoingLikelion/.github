@@ -22,8 +22,10 @@
 
 | Backend | Backend | Frontend | Frontend | Frontend |
 |---------|---------|---------|---------|----------|
-| ![김병수](https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/%EA%B0%90%EC%9E%90%EC%97%90+%EC%8B%B9%EC%9D%B4%EB%82%98%EC%84%9C.png) | ![t](이미지-링크) | ![t](이미지-링크) | ![t](이미지-링크) | ![t](이미지-링크) |
-|  김병수  |  정다연  |  홍지환  |  이예지  |  최수민  |
+| 김병수 | 정다연 | 홍지환 | 이예지 | 최수민 |
+|---------|---------|---------|---------|----------|
+| <img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/%EA%B0%90%EC%9E%90%EC%97%90+%EC%8B%B9%EC%9D%B4%EB%82%98%EC%84%9C.png" width="100px" /><br> |
+|  jwt_oauth로그인, emoji스티커 기능 구현<br>  |  정다연  |  홍지환  |  이예지  |  최수민  |
 
 
 ## 계획서
