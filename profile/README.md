@@ -41,12 +41,17 @@
     </tr>
     <tr>
         <!-- Frontend Members Name -->
-        <td style="text-align: center; vertical-align: middle;">홍지환</td>
-        <td style="text-align: center; vertical-align: middle;">이예지</td>
-        <td style="text-align: center; vertical-align: middle;">최수민</td>
+        <td style="text-align: center; vertical-align: middle;">
+		<a href="https://github.com/flareseek">홍지환</a></td>
+        <td style="text-align: center; vertical-align: middle;">
+		<a href="https://github.com/yeahzee0421">이예지</a></td>
+        <td style="text-align: center; vertical-align: middle;">
+		<a href="https://github.com/possiblly">최수민</a></td>
         <!-- Backend Members Name -->
-        <td style="text-align: center; vertical-align: middle;">정다연</td>
-        <td style="text-align: center; vertical-align: middle;">김병수</td>
+        <td style="text-align: center; vertical-align: middle;">
+		<a href="https://github.com/dandamdandam">정다연</a></td>
+        <td style="text-align: center; vertical-align: middle;">
+		<a href="https://github.com/GamJaDo">김병수</a></td>
     </tr>
     <tr>
         <!-- Frontend Members Role -->
