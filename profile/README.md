@@ -114,6 +114,7 @@ backend
 
 <h3>프론트엔드</h3>
 <img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/FrontendStack.png">
+
 ### How to Start
 - frontend
   `npm run dev`
