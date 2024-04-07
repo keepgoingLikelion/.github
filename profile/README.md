@@ -30,7 +30,8 @@
         <td style="text-align: center; vertical-align: middle;">
 		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
+		<img src="https://github.com/keepgoingLikelion/.github/assets/107865510/08e28f1e-93ff-4c8c-850a-9e0a405184a5"
+ width="200px"></td>
         <td style="text-align: center; vertical-align: middle;">
 		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <!-- Backend Members Image -->
@@ -56,7 +57,7 @@
     <tr>
         <!-- Frontend Members Role -->
         <td style="text-align: center; vertical-align: middle;">역할</td>
-        <td style="text-align: center; vertical-align: middle;">역할</td>
+        <td style="text-align: center; vertical-align: middle;">UI디자인 <br> 유저, 캘린더 기능 구현</td>
         <td style="text-align: center; vertical-align: middle;">역할</td>
         <!-- Backend Members Role -->
         <td style="text-align: center; vertical-align: middle;">역할</td>
