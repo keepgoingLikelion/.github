@@ -57,7 +57,7 @@
     <tr>
         <!-- Frontend Members Role -->
         <td style="text-align: center; vertical-align: middle;">역할</td>
-        <td style="text-align: center; vertical-align: middle;">UI디자인 <br> 유저, 캘린더 기능 구현</td>
+        <td style="text-align: center; vertical-align: middle;">UI디자인 <br> 유저 서비스 <br/> 캘린더 기능 구현</td>
         <td style="text-align: center; vertical-align: middle;">역할</td>
         <!-- Backend Members Role -->
         <td style="text-align: center; vertical-align: middle;">역할</td>
