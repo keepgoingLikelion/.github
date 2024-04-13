@@ -36,7 +36,7 @@
 		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
         <!-- Backend Members Image -->
         <td style="text-align: center; vertical-align: middle;">
-		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/snrndi.png" width="200px"></td>
+		<img src="https://avatars.githubusercontent.com/u/102032954?s=400&u=4aeabb6be0d364dd1bc6e70d0ad0e1f0cb6bf104&v=4" width="200px"></td>
         <td style="text-align: center; vertical-align: middle;">
 		<img src="https://emotiondiary-bucket.s3.ap-northeast-2.amazonaws.com/gamja_kbs.png" width="200px"></td>
     </tr>
@@ -47,7 +47,7 @@
         <td style="text-align: center; vertical-align: middle;">
 		<a href="https://github.com/yeahzee0421">이예지</a></td>
         <td style="text-align: center; vertical-align: middle;">
-		<a href="https://github.com/possiblly">최수민</a></td>
+		<a href="https://github.com/possiblly">채수민</a></td>
         <!-- Backend Members Name -->
         <td style="text-align: center; vertical-align: middle;">
 		<a href="https://github.com/dandamdandam">정다연</a></td>
@@ -60,7 +60,7 @@
         <td style="text-align: center; vertical-align: middle;">UI디자인 <br> 유저 서비스 <br/> 캘린더 기능 구현</td>
         <td style="text-align: center; vertical-align: middle;">역할</td>
         <!-- Backend Members Role -->
-        <td style="text-align: center; vertical-align: middle;">역할</td>
+        <td style="text-align: center; vertical-align: middle;">api 설계, <br/> post 기능 구현</td>
         <td style="text-align: center; vertical-align: middle;">인증/인가,<br>emoji스티커 기능 구현</td>
     </tr>
 </table>
